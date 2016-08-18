@@ -1,0 +1,17 @@
+h2 {
+  color: #444;
+  font-weight: lighter;
+}
+body {
+  margin: 2em;
+  input[text], button {
+    color: #888;
+  }
+  button {
+    padding: 0.5em;
+    font-size: 14px
+  }
+}
+* {
+  font-family: Arial;
+}
